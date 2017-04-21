@@ -7,6 +7,7 @@
     "email": "vss0705@naver.com"
   },
   "devDependencies": {
+    "raw-loader": "^0.5.1",
     "webpack": "^2.4.1"
   }
 }
