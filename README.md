@@ -6,6 +6,8 @@
 - [Angular : https://angular.io/](https://angular.io/)
 - [Ionic : http://ionicframework.com/docs/](http://ionicframework.com/docs/)
 - [Cordova : https://cordova.apache.org/](https://cordova.apache.org/)
+- [TSLint : https://palantir.github.io/tslint/rules/](https://palantir.github.io/tslint/rules/)
+- [Firebase : https://firebase.google.com/](https://firebase.google.com/)
 
 ---
 
@@ -19,6 +21,10 @@
 ---
 
 ### [Node.js Modules](./NodeModules.md)
+
+---
+
+### [Namimg Rule](./NamimgRule.md)
 
 ---
 
