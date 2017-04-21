@@ -24,7 +24,7 @@
 
 ---
 
-### [Namimg Rule](./NamimgRule.md)
+### [Naming Rule](./NamingRule.md)
 
 ---
 
