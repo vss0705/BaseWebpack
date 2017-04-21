@@ -1,7 +1,6 @@
-# BaseWebpack
+# devDOC
 
-
-### Base
+### webpack base
 
 ```
 > npm i -D webpack babel-core babel-loader
@@ -10,3 +9,8 @@
 > npm i -D url-loader file-loader
 > npm i -D webpack-dev-server
 ```
+
+### dev site
+
+- [Node.js](https://nodejs.org/ko/)
+- [Ionic](http://ionicframework.com/docs/)

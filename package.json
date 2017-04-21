@@ -1,12 +1,10 @@
 {
-  "name": "BaseWebpack",
+  "name": "devDOC",
   "version": "0.0.1",
   "license": "MIT",
   "author": {
     "name": "vss0705"
   },
   "devDependencies": {
-    "raw-loader": "^0.5.1",
-    "webpack": "^2.4.1"
   }
 }
