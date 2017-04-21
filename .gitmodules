@@ -1,0 +1,9 @@
+[submodule "src/ngModules/SonCorx"]
+	path = src/ngModules/SonCorx
+	url = d:/_BARE_/SonCorx
+[submodule "src/ngModules/NgAudio"]
+	path = src/ngModules/NgAudio
+	url = d:/_BARE_/NgAudio
+[submodule "src/ngModules/NgSwiper"]
+	path = src/ngModules/NgSwiper
+	url = d:/_BARE_/NgSwiper

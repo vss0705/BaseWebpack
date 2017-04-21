@@ -1,0 +1,12 @@
+{
+  "name": "BaseWebpack",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "vss0705",
+    "email": "vss0705@naver.com"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
