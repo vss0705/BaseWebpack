@@ -8,6 +8,7 @@
 - [webpack](https://www.npmjs.com/package/webpack) : 브라우저 용 CommonJs / AMD 모듈을 포장합니다
 - [rxjs](https://www.npmjs.com/package/rxjs) : 최신 자바 스크립트를위한 리 액티브 확장
 - [rimraf](https://www.npmjs.com/package/rimraf) : 노드를위한 깊은 삭제 모듈
+- [node-monitor](https://www.npmjs.com/package/node-monitor) : Node.js 서버 모니터 모듈
 
 
 
